@@ -65,6 +65,7 @@ dependencies {
     implementation("androidx.activity:activity-compose:1.8.2")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
 
     // Compose dependencies
     implementation("androidx.compose.ui:ui:1.6.2")
